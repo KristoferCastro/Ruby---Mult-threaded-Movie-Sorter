@@ -34,6 +34,8 @@ The input is movies.csv
 The output will be written to output.txt
 The maximum number of threads that requests the OMDB Web API is 5
 
+note: Setting the thread count too high may cause a refuse connection, if it does, set it lower!
+
 ---------------------------------------------------
 Cases considered
 ---------------------------------------------------
@@ -52,9 +54,7 @@ Cases considered
 + Some movie titles may contain characters that gave me troubles using Ruby's URI class,
   I made sure to replace all characters that is not part of the 127 bits of ascii with an empty character.
 
-  Regex: /"^\u[0000]=\u[007F]/  notice 007F is just 0000 0000 0111 11111 = 2^7 = 127 bits
-  
-  note: maybe I should allow for more characters in UTF-16, not just the first 127 bits. hmm.. 
+  Regex: /^\u{0000}-\u{007F}/  notice 007F is just 0000 0000 0111 11111 = 2^7 = 127 bits 
 
 + Also, there is some titles that when I search in IMDB I can find it under a different or similar name
   but when I search using OMDB api, I can't seem to gethe right one.  For example, "20 Feet from Stardom"

@@ -1,8 +1,7 @@
 require 'net/http'
 
 # 
-# This class handles communication with the OMDB api through HTTP
-# 
+# This class handles communication with the OMDB api through HTTP 
 #
 class Omdb_api
 
@@ -24,7 +23,7 @@ class Omdb_api
     request_uri = make_request_uri(params) 
     recieved_data = send_request(request_uri) 
     rating = recieved_data[:imdbRating]
-    test_input = "imdb:\t#{rating} \t #{title}(#{year}) ...#{request_uri.to_s}"
+    #test_input = "imdb:\t#{rating} \t #{title}(#{year}) ...#{request_uri.to_s}"
     #puts test_input
     return rating
    end
