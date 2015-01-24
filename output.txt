@@ -97,8 +97,8 @@ Network -- 8.2
 One Way Passage -- 8.2
 Paper Moon -- 8.2
 Platoon -- 8.2
-The Red Balloon  -- 8.2
 Rebecca -- 8.2
+The Red Balloon  -- 8.2
 Searching for Sugar Man -- 8.2
 A Tree Grows in Brooklyn -- 8.2
 All Quiet on the Western Front -- 8.1
@@ -152,8 +152,8 @@ Woodstock -- 8.1
 The Adventures of Robin Hood -- 8.0
 The African Queen -- 8.0
 Aladdin -- 8.0
-All the President's Men -- 8.0
 Almost Famous -- 8.0
+All the President's Men -- 8.0
 The Artist -- 8.0
 The Awful Truth -- 8.0
 Becket -- 8.0
@@ -202,8 +202,8 @@ The Old Mill -- 8.0
 Patton -- 8.0
 Planet of the Apes -- 8.0
 Pygmalion -- 8.0
-The Quiet Man -- 8.0
 Rain Man -- 8.0
+The Quiet Man -- 8.0
 Ratatouille -- 8.0
 Rosemary's Baby -- 8.0
 Scent of a Woman -- 8.0
@@ -221,8 +221,8 @@ You Can't Take It with You -- 8.0
 7th Heaven -- 7.9
 The Accountant -- 7.9
 All About My Mother  -- 7.9
-America America -- 7.9
 American Dream -- 7.9
+America America -- 7.9
 Avatar -- 7.9
 Babette's Feast  -- 7.9
 The Big Country -- 7.9
@@ -246,10 +246,10 @@ Hamlet -- 7.9
 The Horse with the Flying Tail -- 7.9
 Hud -- 7.9
 Into the Arms of Strangers: Stories of the Kindertransport -- 7.9
-Johnny Belinda -- 7.9
 The Johnstown Flood -- 7.9
-The Killing Fields -- 7.9
+Johnny Belinda -- 7.9
 Key Largo -- 7.9
+The Killing Fields -- 7.9
 Let It Be -- 7.9
 Little Miss Sunshine -- 7.9
 Man on Wire -- 7.9
@@ -290,8 +290,8 @@ The Dirty Dozen -- 7.8
 Fantasia -- 7.8
 Finding Neverland -- 7.8
 Forbidden Games -- 7.8
-The French Connection -- 7.8
 From Here to Eternity -- 7.8
+The French Connection -- 7.8
 The Fugitive -- 7.8
 Goldfinger -- 7.8
 Guess Who's Coming to Dinner -- 7.8
@@ -364,12 +364,12 @@ Journey of Hope  -- 7.7
 Knighty Knight Bugs -- 7.7
 Kukan -- 7.7
 La Vie en rose -- 7.7
-The Last Days -- 7.7
 The Last King of Scotland -- 7.7
+The Last Days -- 7.7
 Leave Her to Heaven -- 7.7
 Lilies of the Field -- 7.7
-The Living Desert -- 7.7
 Logorama -- 7.7
+The Living Desert -- 7.7
 A Man and a Woman -- 7.7
 March of the Penguins  -- 7.7
 Midnight Express -- 7.7
@@ -392,18 +392,18 @@ Sense and Sensibility -- 7.7
 Shane -- 7.7
 Shine -- 7.7
 Since You Went Away -- 7.7
-Snow White and the Seven Dwarfs -- 7.7
 The Snake Pit -- 7.7
+Snow White and the Seven Dwarfs -- 7.7
 The Song of Bernadette -- 7.7
 Sophie's Choice -- 7.7
 Spellbound -- 7.7
-Star in the Night -- 7.7
 A Star Is Born -- 7.7
+Star in the Night -- 7.7
 Swing Time -- 7.7
 Tabu -- 7.7
 Titanic -- 7.7
-Training Day -- 7.7
 Traffic -- 7.7
+Training Day -- 7.7
 Who Framed Roger Rabbit -- 7.7
 The Abyss -- 7.6
 All the King's Men -- 7.6
@@ -463,8 +463,8 @@ The Time Machine -- 7.6
 The Tin Drum  -- 7.6
 The Titan: Story of Michelangelo -- 7.6
 The Trip to Bountiful -- 7.6
-West Side Story -- 7.6
 The Wetback Hound -- 7.6
+West Side Story -- 7.6
 Work Experience -- 7.6
 The Yankee Doodle Mouse -- 7.6
 The Adventures of Priscilla, Queen of the Desert -- 7.5
@@ -474,8 +474,8 @@ The Aviator -- 7.5
 Babel -- 7.5
 The Bells of St. Mary's -- 7.5
 Black Orpheus  -- 7.5
-Bullitt -- 7.5
 Bullets over Broadway -- 7.5
+Bullitt -- 7.5
 Champion -- 7.5
 Coal Miner's Daughter -- 7.5
 The Constant Gardener -- 7.5
@@ -563,12 +563,12 @@ Julius Caesar -- 7.4
 Kiss of the Spider Woman -- 7.4
 The Life of Emile Zola -- 7.4
 Lincoln -- 7.4
-Little Women -- 7.4
 The Lives of a Bengal Lancer -- 7.4
+Little Women -- 7.4
 The Long Way Home -- 7.4
 Lust for Life -- 7.4
-Master and Commander: The Far Side of the World -- 7.4
 Mediterraneo -- 7.4
+Master and Commander: The Far Side of the World -- 7.4
 Min and Bill -- 7.4
 Nine from Little Rock -- 7.4
 A Passage to India -- 7.4
@@ -596,8 +596,8 @@ True Grit -- 7.4
 Wall Street -- 7.4
 Wallace & Gromit: The Curse of the Were-Rabbit -- 7.4
 The Way of All Flesh -- 7.4
-Woman of the Year -- 7.4
 Wonder Boys -- 7.4
+Woman of the Year -- 7.4
 The Yearling -- 7.4
 Zero Dark Thirty -- 7.4
 7 Faces of Dr. Lao -- 7.3
@@ -739,8 +739,8 @@ Charade -- 7.1
 The Charge of the Light Brigade -- 7.1
 Come and Get It -- 7.1
 The Country Cousin -- 7.1
-A Double Life -- 7.1
 Down and Out in America -- 7.1
+A Double Life -- 7.1
 Gerald McBoing-Boing -- 7.1
 Grand Prix -- 7.1
 Gravity Is My Enemy -- 7.1
@@ -766,13 +766,13 @@ Topkapi -- 7.1
 Tweetie Pie -- 7.1
 The Way We Were -- 7.1
 Who's Who in Animal Land -- 7.1
-With a Song in My Heart -- 7.1
-With Byrd at the South Pole -- 7.1
 With the Marines at Tarawa -- 7.1
+With Byrd at the South Pole -- 7.1
+With a Song in My Heart -- 7.1
 You Don't Have to Die -- 7.1
-Adventures of Don Juan -- 7.0
 Affliction -- 7.0
 The Alaskan Eskimo -- 7.0
+Adventures of Don Juan -- 7.0
 The Anderson Platoon  -- 7.0
 Angel and Big Joe -- 7.0
 Arise, My Love -- 7.0
@@ -996,8 +996,8 @@ I Wanted Wings -- 6.3
 Purple Rain -- 6.3
 Shampoo -- 6.3
 Three Coins in the Fountain -- 6.3
-Toward Independence -- 6.3
 Torture Money -- 6.3
+Toward Independence -- 6.3
 The V.I.P.s -- 6.3
 A Boy and His Dog -- 6.2
 California Suite -- 6.2
@@ -1046,8 +1046,8 @@ Marooned -- 5.8
 Moonbird -- 5.8
 Project Hope -- 5.8
 White Wilderness -- 5.8
-The Woman in Red -- 5.8
 The Wolfman -- 5.8
+The Woman in Red -- 5.8
 Beyond the Line of Duty -- 5.7
 A Little Night Music -- 5.7
 World of Kids -- 5.7
@@ -1089,8 +1089,8 @@ The Garden of the Finzi-Continis  -- not found
 Gate of Hell  -- not found
 Glass  -- not found
 Great (Great  -- not found
-Helen Keller in Her Story  -- not found
 Helium -- not found
+Helen Keller in Her Story  -- not found
 Heureux Anniversaire  -- not found
 The Hurt Locker -- not found
 Il Postino  -- not found
@@ -1111,6 +1111,6 @@ This Charming Man  -- not found
 To Begin Again  -- not found
 Two Women  -- not found
 Vacation from Marriage  -- not found
-War and Peace  -- not found
 Wasp -- not found
+War and Peace  -- not found
 Yesterday, Today and Tomorrow  -- not found

@@ -54,14 +54,14 @@ Cases considered
 + Some movie titles may contain characters that gave me troubles using Ruby's URI class,
   I made sure to replace all characters that is not part of the 127 bits of ascii with an empty character.
 
-  Regex: /^\u{0000}-\u{007F}/  notice 007F is just 0000 0000 0111 11111 = 2^7 = 127 bits 
+  Regex: /[^\u0000-\u007F]/  notice 007F is just 0000 0000 0111 11111 = 2^7 = 127 bits 
 
 + Also, there is some titles that when I search in IMDB I can find it under a different or similar name
   but when I search using OMDB api, I can't seem to gethe right one.  For example, "20 Feet from Stardom"
   the 2013 movie title can't be found using OMDB api.  Also the movie title Arthur Rubinstein - The Love of Life
   can be found if you look at imdb.com but not through the API.  Perhaps it is the fault of the API.
 
-+ Some cases that considered 
++ Some cases considered 
   1.  Duplicate movie title but different years
   2.  Movie titles that are empty strings
 -----------------------------------------------------

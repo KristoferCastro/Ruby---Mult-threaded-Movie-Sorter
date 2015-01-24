@@ -17,7 +17,7 @@ class Omdb_api
     if title == nil then raise 'You need to input a title' end 
    
     # Regex says all uni code not in the range of  0 to 127 should be deleted!
-    title = title.delete("^\u{0000}-\u{007F}") # this fixes cases with non-ascii characters  
+    title = title.gsub(/[^\u0000-\u007F]/, "") # this fixes cases with non-ascii characters  
     
     params = { t: title, y: year }
     request_uri = make_request_uri(params) 
