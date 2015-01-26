@@ -51,6 +51,7 @@ Cases considered
 + Some cases considered 
   1.  Duplicate movie title but different years
   2.  Movie titles that are empty strings
+
 -----------------------------------------------------
 General Algorithm
 -----------------------------------------------------
