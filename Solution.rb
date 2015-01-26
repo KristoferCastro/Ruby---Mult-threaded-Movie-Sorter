@@ -124,7 +124,7 @@ class Solution
       @ratings_hash[rating.to_f*10].push(title)
     end
   end
-
+  
 end
 
 unless ARGV.length == 2 || ARGV.length == 3

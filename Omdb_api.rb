@@ -1,4 +1,5 @@
 require 'net/http'
+require 'json'
 
 # 
 # This class handles communication with the OMDB api through HTTP 
@@ -22,7 +23,7 @@ class Omdb_api
     params = { t: title, y: year }
     request_uri = make_request_uri(params) 
     recieved_data = send_request(request_uri) 
-    rating = recieved_data[:imdbRating]
+    rating = recieved_data["imdbRating"]
     #test_input = "imdb:\t#{rating} \t #{title}(#{year}) ...#{request_uri.to_s}"
     #puts test_input
     return rating
@@ -33,7 +34,7 @@ class Omdb_api
   # represented as a Ruby Hash
   def send_request(uri)
     resp = Net::HTTP.get_response(uri) 
-    data = eval(resp.body) # convert the JSON string to Ruby Hash
+    data = JSON.parse(resp.body) # convert the JSON string to Ruby Hash
     return data
   end 
 
@@ -56,7 +57,7 @@ class Omdb_api
       request_url += "#{param}=#{value}&"  
     end
     request_url = request_url.chop # remove the last &
-    return URI.parse(request_url)
+    return URI.parse(URI.encode(request_url))
   end
 
   private
