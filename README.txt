@@ -1,6 +1,19 @@
 Kristofer Ken Castro
 1/23/2015
-Bookbub Challenge
+
+------------------------------------------------
+Time Taken
+------------------------------------------------
+I thought of the general solution and sorting algorithm to use fairly quickly (<5 mins).
+
+I've choses Ruby as the programming language to use since I know you guys
+use Ruby on Rails and it can demonstrate some level of experience with Ruby.
+
+It is not my most proficient language, however, Java is.
+
+So it took me around 4-5 hours to code while looking at references dealing with
+Ruby IO, multi-threading via Thread Pools, and general ruby-way of coding
+
 
 -------------------------------------------------
 Dependencies
