@@ -2,6 +2,15 @@ Kristofer Ken Castro
 1/23/2015
 Bookbub Challenge
 
+------------------------------------------------
+Time Taken
+------------------------------------------------
+I thought of the general solution and sorting algorithm to use fairly quickly (<5 mins).
+
+So it took me around 4-5 hours to code while looking at references dealing with
+Ruby IO, multi-threading via Thread Pools, and general ruby-way of coding
+
+
 -------------------------------------------------
 Dependencies
 -------------------------------------------------
